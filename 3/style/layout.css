@@ -1,0 +1,6 @@
+.d-grid{
+   display: grid;
+}
+.repeat-layaut{
+   grid-template-columns: repeat(6, auto);
+}
